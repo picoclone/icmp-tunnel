@@ -1,0 +1,7 @@
+slug: icmp-tunnel
+title: ICMP Tunnel
+category: networking
+difficulty: medium
+points: 275
+codec: base64
+repo_url: https://github.com/picoclone/icmp-tunnel
